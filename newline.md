@@ -7,3 +7,11 @@
 | Bananas       | first line\   | first line\        |
 |               | next line     | next line          |
 +---------------+---------------+--------------------+
+
++---------+---------+-------------------------------------------+-----+
+| Property Name       | Type    | Description      | Optional  |
++---------+---------+-------------------------------------------+-----+
+| ti      | (Pl     | The date and time this error log record   | N   |
+| mestamp | atform) | was created.                              |     |
+|         | Date    |                                           |     |
++---------+---------+-------------------------------------------+-----+
